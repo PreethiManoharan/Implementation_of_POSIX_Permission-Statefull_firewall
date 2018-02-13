@@ -19,6 +19,9 @@ Wrote firewall script on linux systems using iptables to automate the process of
 
 Also, used arptables to filter the arp packets caused due to arp spoof and MITM attack.
 
+### Firewall Script:
+![Firewall Script](./Firewall_script.png)
+
 ### Youtube Links:
 
 - [To avoid Permisssions and Nmap](https://youtu.be/F907ZTBKplo) 
