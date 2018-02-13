@@ -21,8 +21,8 @@ Also, used arptables to filter the arp packets caused due to arp spoof and MITM 
 
 ### Youtube Links:
 
-- [To avoid Permisssions and Nmap] (https://youtu.be/F907ZTBKplo) 
-- [To overcome arpspoof attack] (https://youtu.be/6QXVYntD3K8)
+- [To avoid Permisssions and Nmap](https://youtu.be/F907ZTBKplo) 
+- [To overcome arpspoof attack](https://youtu.be/6QXVYntD3K8)
 
 _______________
 
